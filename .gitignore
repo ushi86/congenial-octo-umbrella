@@ -1,0 +1,33 @@
+# Node/Next.js
+node_modules/
+.next/
+.next-static/
+out/
+coverage/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Vercel
+.vercel/
+.vercelignore
+
+# Misc
+*.tsbuildinfo
+.eslintcache
